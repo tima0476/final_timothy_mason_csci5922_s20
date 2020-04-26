@@ -1,0 +1,37 @@
+MILLION SONG DATASET
+
+http://labrosa.ee.columbia.edu/millionsong/
+
+January 2011
+
+************************************************************
+THIS IS THE SUBSET DATASET!!!! (10K files instead of 1M)
+
+The dataset contains the analysis and metadata for a million songs.
+The goal is to provide a large dataset for researchers to report results 
+on, hence encouraging algorithms that scale to commercial sizes.
+
+Most of the information is provided by The Echo Nest.
+The dataset is the result of a collaboration between The Echo Nest
+and LabROSA at Columbia University.
+
+Most of the data is licensed the same way as Echo Nest's API.
+The code is under GNU public license.
+See LICENSE for details.
+
+Most details and instructions on how to get the dataset can be found
+on the project's website:
+http://labrosa.ee.columbia.edu/millionsong/
+
+************************************************************
+CONTENT
+- Folders data/ A to Z contains song files in HDF5 format
+- Folder AdditionalFiles contains SQLite databases, textfiles, etc,
+  that helps you navigate through the dataset
+- License file and Readme file
+************************************************************
+
+
+If you have any question or comment:
+Thierry Bertin-Mahieux
+tb2332@columbia.edu
