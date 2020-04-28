@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Jetbrains IDE
-.idle/
+.idea/
